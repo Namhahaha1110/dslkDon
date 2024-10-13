@@ -1,0 +1,15 @@
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.exe
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.deps.json
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.runtimeconfig.json
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.dll
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\bin\Debug\net6.0\DSLKDon.pdb
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.csproj.AssemblyReference.cache
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.GeneratedMSBuildEditorConfig.editorconfig
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.AssemblyInfoInputs.cache
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.AssemblyInfo.cs
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.csproj.CoreCompileInputs.cache
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.dll
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\refint\DSLKDon.dll
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.pdb
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\DSLKDon.genruntimeconfig.cache
+D:\23dh114467_LeHoangNam\DSLKDon\DSLKDon\obj\Debug\net6.0\ref\DSLKDon.dll
