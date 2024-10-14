@@ -1,4 +1,6 @@
-﻿namespace DSLKDon
+﻿using System;
+
+namespace DSLKDon
 {
     internal class MyList
     {
@@ -449,7 +451,6 @@
                 p2 = p2.Next;
             }
             return list3;
-
         }
     }
 }
